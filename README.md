@@ -11,7 +11,7 @@ Here are some screenshots of the app:
 
 You can download the APK for the app from the following link:
 
-[Download APK](https://example.com/myapp.apk)
+[Download APK](https://drive.google.com/file/d/1pjj-Jub2VK5q99qnkFQEV9iUyTfr8-9O/view?usp=share_link))
 
 ## Requirements
 
